@@ -28,7 +28,7 @@ El Machine Learning, es una rama de la inteligencia artificial que permite que l
 
 ## ¿Por que analizar el credit score con Machine Learning?
 
-La industria crediticia tiene una importancia económica sustancial. Cada vez hay mas personas que solicita credito a los bancos, para conocer si el cliente puede pagar o no, se necesita estudiar el cliente antes.  Sin embargo, la cantidad de clientes hace que sea muy difícil identificar los puntajes de crédito manualmente. Estos factores demuestran que las instituciones financieras requieren poderosas herramientas cuantitativas para tomar decisiones crediticias inteligentes, ya que esto afectaría en gran medida sus márgenes de ganancia.
+La industria crediticia tiene una importancia económica sustancial. Cada vez hay mas personas que solicita credito a los bancos, para conocer si el cliente puede pagar o no, se necesita estudiar las caracteristicas y la situación de los clientes antes.  Sin embargo, la cantidad de clientes hace que sea muy difícil identificar los puntajes de crédito manualmente. Estos factores demuestran que las instituciones financieras requieren poderosas herramientas cuantitativas para tomar decisiones crediticias inteligentes, ya que esto afectaría en gran medida sus márgenes de ganancia.
 
 
 
